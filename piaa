@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>And</title>
+     <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body> 
+   <center> <p><div class="bg-pink-200 text-black-400 px-0 py-3 rounded-full font-bold">
+    <p>Burnout? Istirahat dulu, bro.</p>
+    </p>Mental health lo lebih penting dari deadline dosen.</p>
+    <p>besok lo balik lebih kuat!</p> </center>
+   
+    <p></p>
+    </div>
+      <center> <p><div class="bg-gray-200 text-black-400 px-0 py-3 rounded-full font-bold">
+    <p>Overthinking tugas?</p>
+    </p>Tarik napas, tulis 3 hal yang lo syukuri.</p>
+    <p>Lo gak sendirian, kita semua lagi perang sama pikiran.</p> </center>
+   
+    <p></p>
+    </div>
+      <center> <p><div class="bg-pink-200 text-black-400 px-0 py-3 rounded-full font-bold">
+    <p>Galau masa depan? </p>
+    </p>Fokus hari ini aja</p>
+    <p>satu tugas selesai = satu win</p>
+    <p>Stack kecil jadi gunung.</p> </center>
+
+   
+<p></p>
+    </nav>
+     <center><p><a href= "Abaout.html" class="bg- bg-gray-200 text- black-400 px-6 py-2 rounded-full font-semibold">Back</a></center>
+
+    
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>contac</title>
+    
+      
+<body>
+    </p>
+    <p><div class="bg- bg-pink-200 text-black-400 px-6 py-2 rounded-full font-semibold"></p>
+        
+    <div><center>  <h1 style="color: rgb(6, 9, 10);font-size: 1px; font-style: border-box; text-shadow: rgb(212, 76, 8);">SILAHKAN HUBUNGI LEWAT LINK BERIKUT</h1> 
+    <nav>
+         <script src="https://cdn.tailwindcss.com"></script>
+        <p></p>
+  
+        
+        <p>via instagram</p>
+        <p>
+
+        </p>
+        <p>></p>
+         <p><a href="https://www.instagram.com/nnplww?igsh=M3ljd3duYjVpZGpn" class="bg- bg-gray-200 text-blue-400 px-6 py-2 rounded-full font-semibold">klik di sini</a> <!--link--></p>
+        <sp>></sp>
+        <p> via tiktok</p>
+          <p>></p>
+        <p><a href="https://www.tiktok.com/@www.tiktok_coml?_r=1&_t=ZS-95ko0O2yjwG" class="bg- bg-gray-200 text-blue-400 px-6 py-2 rounded-full font-semibold">klik di sini</a> <!--link--></p>
+         <p>></p>
+        <p>via watshapp</p>
+          <p>></p>
+        <p><a href="https://wa.me/qr/ILTFP63SQKWWG1" class="bg- bg-gray-200 text-blue-400 px-6 py-2 rounded-full font-semibold">klik di sini</a> <!--link--></p>
+        <p></p>
+          <p>></p>
+        <p> via isntagram  </p>
+          <p>></p>
+         <p><a href= "https://www.instagram.com/the_architects1?igsh=NnVzZzVwcnhvdmgx" class="bg- bg-gray-200 text-blue-400 px-6 py-2 rounded-full font-semibold">klik di sini</a> <!--link--></p>
+          <p>></p>
+    <p></p>
+    <p><</p>
+  
+   
+       <p><a href= "Abaout.html" class="bg- bg-gray-200 text- black-400 px-6 py-2 rounded-full font-semibold">Back</a></center>
+
+          </div>
+           </section>
+    </nav>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>web pia</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-drack-100 text-drack-800rounded-full font-semibold">
+  <!-- Navbar -->
+  <nav class="bg-gray-200 shadow-md fixed w-full top-0">
+    <div class="max-w-6xl mx-auto px-4 py-3 flex justify-between items-center">
+      <h1 style="color: rgb(76, 10, 56);font-size: 20px; font-style: oblique;">SELAMAT DATANG DI WEBSITE SAYA</h1>
+      <div class="space-x-5">
+        <h1 style="color: rgb(76, 10, 56);font-size: 15px; text-underline-position: above;font-style: italic;"</h1> 
+          <a href="tentang.html" class="bg- bg-pink-200 text-black-400 px-6 py-2 rounded-full font-semibold">profil saya</a>
+        <a href="profil saya.html"class="bg- bg-pink-200 text-black-400 px-6 py-2 rounded-full font-semibold"> Beground pendidikan</a>
+        <a href="portofolio.html"class="bg- bg-pink-200 text-black-400 px-6 py-2 rounded-full font-semibold">portofolio</a>
+        <a href="contac.html" class="bg- bg-pink-200 text-black-400 px-6 py-2 rounded-full font-semibold">Contac</a>
+        <a href="And.html" class="bg- bg-pink-200 text-black-400 px-6 py-2 rounded-full font-semibold">And</a>
+        
+      </h1>
+    </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Hero -->
+  <section class="h-screen flex items-center justify-center text-center bg-gradient-to-r from-pink-300 to-indigo-300 text-black">
+    <div>
+      <h2 class="text-4xl font-bold font-family">Halo saya,</h2>
+      <p><h2 class="text-4xl font-bold mb-4"> Nopia Lismawati</h2></p>
+      <p class="text-lg mb-6">Mahasiswa | Drafter | Freelancer</p>
+      <a href="portofolio.html" class="bg-white text-black-600 px-6 py-2 rounded-full font-semibold">Lihat Karya</a>
+    </div>
+  </section>
+
+  <!-- About -->
+  <section id="about" class="py-20 max-w-4xl mx-auto px-4">
+    <h3 class="text-3xl font-bold mb-6 text-center">Tentang Saya</h3>
+    <p class="text-center">
+    <center> Saya adalah seorang maahasiswa yang aktif di kampus amik bukitinggi dengan jurusan D3 Manajemn Informatika.
+      tidak hanya kuliah saya juga memiliki kesibukan sebagai seorang desainer atau di sebut juga sebagai drafter frelancer.</p>
+     <p>untuk lebih lengkap bisa klik yang di bawah ini.</p></center>
+    <p><a href="tentang.html" class="bg- bg-gray-200 text-blue-400 px-6 py-2 rounded-full font-semibold">Tentang saya</a></p>
+     
+    
+  </section>
+
+  <!-- Projects -->
+  <section id="projects" class="py-20 bg-gray-200">
+    <div class="max-w-6xl mx-auto px-4">
+      <h3 class="text-3xl font-bold mb-10 text-center">Proyek</h3>
+      <div class="grid md:grid-cols-3 gap-6">
+        <div class="bg-white p-4 rounded-2xl shadow">
+          <center><h4 class="font-bold text-lg"> PROJEK 1</h4></center>
+          <p></p>
+          <center>  <h2> <p> "Desain Rencana Bagunan Ruko Minimalis"</p></h2></center>
+          <P> Ini adalah rencana desaian ruko, pada desain ini mengangkat Konsep struktur bangunan untuk ruko minimalis mengutamakan efisiensi material, 
+            kekuatan struktural, dan memaksimalkan ruang fungsional. </P>
+            <p> bentuk gambar kerja dari ruko ini dapat di lihat di sini</p>
+          <center><p> <a href="Pdf Bpk sopian.pdf"class=" text-blue-400 px-6 py-2 rounded-full font-semibold">----Download PDF----</a></p></p></center> 
+        
+              
+             
+        </div>
+        <div class="bg-white p-4 rounded-2xl shadow">
+          <center><h4 class="font-bold text-lg">PROJEK 2</h4></center>
+              <center>  <h2> <p> "Desain Rencana Bagunan BLIAR"</p></h2></center>
+              <p>
+              </p>
+                <p> Berikut adalah desain rencana bliar dan resto,
+                  pada desain ini saya mengangkat konsep bagunan modren saat ini. konsep desain ini berfokus pada pergeseran citra 
+                  tempat yang di anggap negatif menjadi ruang reakreasi yang elegan, nyaman dan sosial. tidak hanya itu desain ini 
+                  juga menggabungkan unsur funsional olahraga dengan estetika tempat nongrong (hangout) yang mewah di lengkapi dengan retorannya.</p>
+            <p> bentuk gambar kerja dari desain tersebut dapat di lihat di sini
+             <center><p> <a href="bliard jalur 32.pdf"class=" text-blue-400 px-6 py-2 rounded-full font-semibold">----Download PDF----</a></p></p></center> 
+        </div>
+        <div class="bg-white p-4 rounded-2xl shadow">
+           <center> <h4 class="font-bold text-lg">PROJEK 3</h4></center>
+           <center>  <h2> <p> "Desain Rencana Ruko"</p></h2></center>
+          Berikut ini ada beberapa file desaian rencana kerja yang memuat bebarapa konsep desaian,
+          di dalam file tersebut ada beberapa desaian yang mengangkat tepa ruko yang dimana desaian tersebut lebih mengutamakan fungsional , kekuatan tapi tidak menghiangkan nilai estetikanya. 
+          untuk melihat konsep tersebut bisa di lihat disini.
+           <center><p> <a href="swalayan.dwg"class=" text-blue-400 px-6 py-2 rounded-full font-semibold">----Download file 1 (autocad)----</a></p></p></center> 
+            <center><p> <a href="ruko bpk nasrun.dwg"class=" text-blue-400 px-6 py-2 rounded-full font-semibold">----Download file 2 (autocad)----</a></p></p></center> 
+            <center><p> <a href="ruko irma erpiana.dwg"class=" text-blue-400 px-6 py-2 rounded-full font-semibold">----Download file 3 (autocad)----</a></p></p></center> 
+            <center><p> <a href="3 mei 2025.dwg"class=" text-blue-400 px-6 py-2 rounded-full font-semibold">----Download file 3 (autocad)----</a></p></p></center>
+        
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact -->
+  <section id="contact" class="py-20 max-w-4xl mx-auto px-4 text-center">
+    <h3 class="text-3xl font-bold mb-6">Kontak</h3>
+    <p>Email: nopialismawati07@gmail.com</p>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-white text-center py-4 shadow-inner">
+    <p>&copy; 2026 website Saya</p>
+  </footer>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>visualisasi Desain</title>
+  
+</head>
+<body>
+    <center><style>
+       .text {
+            text-align : center;
+            background-color: pink;
+
+        }
+        
+    </style>
+    <div class="text">
+
+  
+    <p></p>
+    
+         <h1> CONTOH VISUALISASI DESAIAN</h1>
+    <h4> Berikur ini adalah Beberapa   visualisasi Desain yang telah saya buat</h4>
+    <p></p>
+    <p><h10> 1.desain rumah tipe 36</h10></p></P>
+    <img src ="1 agust 1.png" alt = "1 agust 1" width="500">
+    <p></p>
+    <img src ="1 Agust 3.png" alt = "1 agust 3" width="500">
+    <p><h10> 2.desain rumah tipe 36</h10></p></P>
+    <img src ="1b.png" alt = "1b" width="500">
+    <p></p>
+    <img src ="12.png" alt = "12" width="500">
+    <p>
+    
+     <p><h10> 3.desain rumah tipe 20x22M</h10></p></P>
+    <img src ="TMPKNDPN.png" alt = "TMPKNDPN" width="500">
+    <p></p>
+    <img src ="1.png" alt = "1" width="500">
+    <p>
+
+    </p>
+    <img src ="R.TMU.png" alt = "R.TMU" width="500">
+    <P></P>
+     <p><h10> 4.desain rumah tipe 15x11M</h10></p></P>
+    <img src ="15x11 1.jpeg" alt = "15x11 1" width="500">
+    <p></p>
+    <img src ="15x112.jpeg" alt = "15x112" width="500">
+    <P></P>
+     <p><h10> 5.rencana taman PUPR Pasaman Barat</h10></p></P>
+    <img src ="taman.png" alt = "taman" width="500">
+    <p></p>
+    <img src ="tmn2.png" alt = "tmn2" width="500">
+    </p>
+    <nav>
+
+    </nav>
+     <a href = "Abaout.html"class="bg-gray text-black-600 px-6 py-2 rounded-full font-semibold">Back</a>
+     </div>
+    
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width= , initial-scale=1.0">
+    <title>Beground pendidikan</title>
+</head>
+<body>
+      <center><style>
+        .kotaknama{
+            width: 400px;
+            padding: 20px;
+            text-align: center;
+            margin: 20px;
+            border: 5px solid transparent;
+            border-image: linear-gradient(to right,rgb(118, 187, 218),rgb(62, 62, 118));
+            border-image-slice:1;
+        }
+    </style>
+    <div class="kotaknama">
+    <center>
+     <h3> BEGROUND PENDIDIKAN</h3>
+    <section>
+        <div class="container">
+       <img 
+                class = "rounded-circle" 
+                src ="poto pia.jpeg"
+                 alt = "poto pia" 
+                 width="200">
+        </div>
+    </section>
+  
+    <h4> SD - SMP</h4>
+    <P> Pendidikan dasar saya dimulai di SD Negeri 20 kinali dari tahun 2013-2019. 
+        Di sini saya pertama kali menemukan bakat menggambar melalui pelajaran seni dan prakarya. 
+        Saya sering menang lomba mewarnai tingkat kecamatan dan menjadi ketua kelas di kelas 5-6. 
+        Nilai rata-rata Ujian Sekolah saya 90, 
+        terutama mata pelajaran matematika dan seni yang saya sukai.Lalu saya melanjutkan ke SMP Negeri 03 kinali tahun 2019-2021.
+         Di SMP, passion saya di bidang teknik mulai terbentuk lewat pelajaran Prakarya dan Kewirausahaan.
+         Saya ikut klub Prakarya dan membuat model rumah dari kardus yang menang juara 2 tingkat kecamatan.
+         Rata-rata Ujian Nasional saya 88 dengan nilai tertinggi di mata pelajaran Seni Budaya dan Prakarya.</P>
+    <h4> SMK</h4>
+    <p>Saya tamat dari SMK Negeri 1 Bukitinggi jurusan Desain Pemodelan dan Informasi Bangunan (DPIB) pada tahun 2025. Dari hari pertama masuk kelas 10, saya langsung jatuh cinta dengan dunia AutoCAD dan revit. Bukan sekedar gambar 2D-3D, tapi bagaimana software ini bisa mewujudkan ide arsitek menjadi bangunan nyata.
+        Di kelas 12, tugas proyek akhir saya adalah mendesain "desain gedung bagunan 2 lantai dengan konsep gren building" u. Desain ini saya presentasikan di Pekan Tahunan SMK dan mendapatkan nilai terbaik dari guru pembimbing. tidak hanya itu saya juga pandai dalam mengghitung anggaran bangunan atau yang dikenal dengan RAB. selama 3 tahun an di smk saya juga ada masa pkl dan dimasa itu saya banyak mempelajari gimana konsep proyek nyata itu, di masa itu saya di ajrkan cara memngambar atau mendesain bagunan secara nyata dengan melakukan pertimbangan dan ambil menyeimbangi keingiinan klien. Pengalaman 3 tahun di DPIB mengajarkan saya tidak hanya teknik gambar tetapi juga logika konstruksi, material bangunan, dan tim kerjasama dalam proyek kelompok. Sekarang saya siap menerapkan keterampilan AutoCAD, Revit, dan pemahaman bangunan di dunia kerja arsitektur atau kontraktor.
+    <h3> keluarga</h3>
+    <p> ..................................</p>
+        <a href = "Abaout.html"class="bg-pink text-black-600 px-6 py-2 rounded-full font-semibold">Back</a></center>   
+
+</p>
+    
+</body>
+</html>
+p{
+    color:aqua;font-size: 50x; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> profil saya</title>
+</head>
+<body>
+  <center><style>
+        .kotaknama{
+            width: 400px;
+            padding: 20px;
+            text-align: center;
+            margin: 20px;
+            border: 5px solid transparent;
+            border-image: linear-gradient(to right,rgb(118, 187, 218),rgb(62, 62, 118));
+            border-image-slice:1;
+        }
+    </style>
+    <div class="kotaknama">
+      
+ 
+</nav>
+   <center>  <img class = "rounded-circle" src ="poto pia.jpeg"alt = "poto pia" width="200">
+    <center><h3>Biodata Kemahasiswaan </h3></center> 
+    <h4> Data Pribadi</h4>
+    <p> Nama Lengkap            : Nopia Lismawati</p>
+    <p> Tempat, Tanggal lahir   : Kinali, 10 November 2007</p>
+    <p> Jenis Kelamin           : Perempuan </p>
+    <p> Kewarganegaraan         : Indonesia</p>
+    <p> Agama                   : Islam</p>
+    <h4> Data kuliah</h4>
+    <p> Universitas             : Kampus Unggu</p>
+    <p> Prodi                   : D3 Manajemen Informatika </p>
+    <p> Jurusan                 : Manajemen informatika </p>
+    <p> Angkatan                : 2025</p>
+    <p> Semester                : 2</p>
+    <p> Mata Kuliah             : Desain web </p>
+    <p> Dosen Pengampu          : Efmi Maiyana</p>
+    <p> Nomor Pokok Mahasiswa   : 2510404857062</p>
+    <h4>Alamat</h4>
+    <p> Alamat Asal             : Air Meruap, Kinali, Pasaman Barat</p>
+    <p> Alamat Domisili         : Jln. By pass, Aur Kuning, Ampek Suku, Banuhampu, kab.Agam, Kota Bukitinggi </p>
+    <a href = "Abaout.html"class="bg-pink text-black-600 px-6 py-2 rounded-full font-semibold">Back</a>
+    
+ </body>
+  
+
+</html>
